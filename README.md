@@ -1,56 +1,66 @@
-# 🌟 **Full-Stack JavaScript Developer** 🌟
+# DINH SY LAM 🖥️
 
-👨‍💻 **Name:** DINH SY LAM  
-📍 **Location:** Ho Chi Minh City, VN  
-📧 **Email:** [superman.developer.app@gmail.com](mailto:superman.developer.app@gmail.com)  
-🌐 **Portfolio:** [dinhsylam.dev](https://www.eternalgalaxy.one/profile)  
+## **Senior Fullstack Developer**  
 
----
-
-## 🛠 **Tech Stack**
-- **Frontend:** React.js ⚛️, Next.js 🚀, Tailwind CSS 🎨
-- **Backend:** Node.js 🟢, Express.js 🖥️, NestJS 🏗️
-- **Database:** MongoDB 🍃, PostgreSQL 🐘, Firebase 🔥
-- **DevOps:** Docker 🐳, Kubernetes ☸️, CI/CD 🚀
-- **Other Tools:** Git 🧑‍💻, Webpack 📦, Jest ✅
+🎯 **Description:**  
+I ❤️ programming!  
 
 ---
 
-## 💻 **Experience**
-**Full-Stack Developer** @ [EG](https://www.eternalgalaxy.one) 🏢  
-📅 **2022 - Present**  
-- Something.  
-- Something.  
-- Something.
+## **👤 Personal Information**  
 
-**Frontend Developer** @ [EG](https://www.eternalgalaxy.one) 🌐  
-📅 **2020 - 2021**  
-- Something.  
-- Something.
-
----
-
-## 📂 **Projects**
-1. **🚀 [ProjectX](https://www.eternalgalaxy.one)** - Business Page.  
+| **Attribute**      | **Details**                                         |
+|---------------------|-----------------------------------------------------|
+| **📅 Date of Birth** | June 26, 1998                                      |
+| **👨‍💼 Gender**       | Male                                               |
+| **📞 Phone**         | 0369892728                                         |
+| **📧 Email**         | [superman.developer.app@gmail.com](mailto:superman.developer.app@gmail.com) |
+| **📍 Address**       | Ho Chi Minh City, Viet Nam                         |
+| **🎵 Hobbies**       | Soccer, Music                                      |
+| **🐙 GitHub**        | [https://github.com/SupeManDeveloper](https://github.com/SupeManDeveloper) |
 
 ---
 
-## 📊 **Skills Summary**
-| Category       | Tools / Frameworks        |
-|----------------|------------------------------|
-| **Frontend**   | React.js, Next.js, Vue.js  |
-| **Backend**    | Node.js, Express.js        |
-| **Database**   | MongoDB, PostgreSQL        |
-| **DevOps**     | Docker, AWS, CI/CD         |
+## **🎓 Education**  
+
+| **Institution**                           | **Details**                                  |
+|-------------------------------------------|----------------------------------------------|
+| **Transportation University of Ho Chi Minh City** | 📚 **Major:** Information Technology <br> 🏆 **Honors & Awards:** Consolation prize in school-level math Olympics |
 
 ---
 
-## 🌐 **Find Me Online**
-- 💼 [LinkedIn](https://linkedin.com)  
-- 📸 [Instagram](https://instagram.com)  
-- 🐦 [Twitter](https://twitter.com)  
-- 🏆 [GitHub](https://github.com)  
+## **💼 Experience**  
+
+### **🏢 Company Projects**  
+
+#### **VSMI Company** (_April 2023 - Present_)  
+**Role:** Fullstack Developer  
+
+| **Project**    | **Details**                                                                                                   |
+|-----------------|-------------------------------------------------------------------------------------------------------------|
+| **📂 Pipeline** | 🗂️ **Description:** Files and staff manager application <br> 💻 **Tech Stack:** ReactJs, Typescript, HTML, CSS, Bootstrap, Laravel <br> 👥 **Team Size:** 4 <br> 🎯 **Responsibilities:** <ul><li>Develop interface and features</li><li>Build supporting tools</li><li>Fix bugs</li></ul> |
+| **🎮 Web Game** | 🎮 **Description:** Web game app with rewards, payments, and admin panels <br> 💻 **Tech Stack:** ReactJs, Typescript, Tailwind, NodeJs, NextJs, Socket, Docker, AWS, Unity <br> 👥 **Team Size:** 15 <br> 🌐 **Links:** [P4P Fun](https://p4p.fun/) <br> 🎯 **Responsibilities:** <ul><li>Lead web development</li><li>UI/UX and feature development</li><li>Integrate payment gateways</li></ul> |
+| **🤖 AI & Web Game for Marketing** | 🤖 **Description:** AI-enhanced marketing and gaming platform <br> 💻 **Tech Stack:** ReactJs, Typescript, Python, AI, Cocos <br> 👥 **Team Size:** 6 <br> 🌐 **Links:** [Play4Promo](https://play4promo.vn/) <br> 🎯 **Responsibilities:** <ul><li>Develop UI/UX</li><li>Fix bugs</li></ul> |
 
 ---
 
-**💡 "Code is like humor. When you have to explain it, it’s bad."** 🚀
+## **🛠️ Skills**  
+
+| **Category**    | **Skills**                                           |
+|------------------|-----------------------------------------------------|
+| **Frontend**     | HTML, CSS, ReactJs, NextJs, Tailwind, Bootstrap     |
+| **Backend**      | NodeJs, NestJs, PHP, Laravel, MongoDB, Redis        |
+| **Cloud/DevOps** | Docker, Kubernetes, AWS Cloud, Google Cloud         |
+| **Others**       | Redux, Zustand, Jest, REST APIs, Microservices      |
+
+---
+
+## **📚 Additional Information**  
+
+- 📊 Knowledge of database management, microservices, and micro frontend  
+- 🧩 Strong communication and problem-solving skills  
+- 🗣️ Basic English communication skills and ability to read technical documents  
+
+---
+
+🌐 **Profile Link:** [https://eternalgalaxy.one/profile](https://eternalgalaxy.one/profile)  
