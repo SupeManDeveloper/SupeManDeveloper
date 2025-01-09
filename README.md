@@ -44,14 +44,36 @@ I ❤️ programming!
 
 ---
 
-## **🛠️ Skills**  
+## **🛠️ SKILLS**
 
-| **Category**    | **Skills**                                           |
-|------------------|-----------------------------------------------------|
-| **Frontend**     | HTML, CSS, ReactJs, NextJs, Tailwind, Bootstrap     |
-| **Backend**      | NodeJs, NestJs, PHP, Laravel, MongoDB, Redis        |
-| **Cloud/DevOps** | Docker, Kubernetes, AWS Cloud, Google Cloud         |
-| **Others**       | Redux, Zustand, Jest, REST APIs, Microservices      |
+| **Skill**         | **Level**    |
+|--------------------|--------------|
+| **HTML**          | Expert       |
+| **CSS**           | Expert       |
+| **SASS/SCSS**     | Expert       |
+| **JS**            | Expert       |
+| **PHP**           | Expert       |
+| **C#**            | Advanced     |
+| **Java**          | Advanced     |
+| **Laravel**       | Expert       |
+| **React Native**  | Expert       |
+| **ReactJS**       | Expert       |
+| **NodeJS**        | Expert       |
+| **VueJS**         | Advanced     |
+| **NextJS**        | Expert       |
+| **NestJS**        | Advanced     |
+| **Docker**        | Advanced     |
+| **Kubernetes**    | Advanced     |
+| **AWS Cloud**     | Advanced     |
+| **Google Cloud**  | Advanced     |
+
+### **💡 Other Skills**  
+- **Frontend:** Ajax, Jquery, Context API, ThreeJs, Jotai, Zustand, Redux, Redux Saga, Redux Toolkit, Tailwind, Bootstrap, MUI, Antd, Framer, Animation, Responsive Design  
+- **Backend:** Express, MongoDB, PostgreSQL, Redis, SQL, MySQL, Firebase, API Gateway  
+- **DevOps & Cloud:** Onesignal, DevOps, Monitoring, Kafka, Elastic Search  
+- **API & Frameworks:** Axios, Apollo, GraphQL, gRPC, tRPC, RESTful, Microservices  
+- **Testing & Gaming:** Jest, Component Testing, Unity, Cocos  
+- **Miscellaneous:** Socket, Component Design, and many more…  
 
 ---
 
